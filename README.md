@@ -77,6 +77,6 @@ Include the following screenshots to illustrate the application’s functionalit
 
  SCREENSHOOT
  
- <img src="https://i.ibb.co/8dQCvfT/Screenshot-20240703-011421.jpg" width="400"/>
- <img src="https://i.ibb.co/6wLH82h/Screenshot-20240703-011425.jpg" width="400"/>
+ <img src="https://i.ibb.co/1ZDgmHn/Screenshot-20240703-020403-1.jpg" width="400"/>
+ <img src="https://i.ibb.co/XLzZNQ1/Screenshot-20240703-011425-1.jpg" width="400"/>
  
